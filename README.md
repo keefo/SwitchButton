@@ -33,11 +33,7 @@ Interface Builder里拖入一个按钮，选择类型为Switch，然后Image和A
 
 其实按钮的绘制才是关键。此例子中的按钮来自与Dribbble的[Billy][2]。
 
-# 感兴趣下载工程文件
-
-[SwitchButton.zip][3]
 
  [1]: http://www.maccocoa.com/wp-content/uploads/2013/04/button.gif
  [2]: http://dribbble.com/billymoren
- [3]: http://www.maccocoa.com/wp-content/uploads/2013/04/SwitchButton.zip
  
