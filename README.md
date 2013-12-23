@@ -5,7 +5,7 @@ create a realistic black switch button
 
 这次教大家做一个仿真的开关按钮，先看做出的效果图。
 
-[<img src="http://www.maccocoa.com/wp-content/uploads/2013/04/switchbutton.gif" alt="switchbutton" width="537" height="460" class="alignnone size-full wp-image-569" />][1]
+[<img src="http://www.lianxu.me/wp-content/uploads/2013/05/switchbutton.jpg" alt="switchbutton" width="500" height="150" />][1]
 
 # 介绍
 
@@ -34,6 +34,6 @@ Interface Builder里拖入一个按钮，选择类型为Switch，然后Image和A
 其实按钮的绘制才是关键。此例子中的按钮来自与Dribbble的[Billy][2]。
 
 
- [1]: http://www.maccocoa.com/wp-content/uploads/2013/04/switchbutton.gif
+ [1]: http://www.lianxu.me/wp-content/uploads/2013/05/switchbutton.jpg
  [2]: http://dribbble.com/billymoren
  
